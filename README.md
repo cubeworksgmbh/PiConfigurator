@@ -4,6 +4,10 @@
 
 The Android App is available on the Google Play Store:
 
+<a href='https://play.google.com/store/apps/details?id=de.cubeworksgmbh.android.piconfigurator'>
+<img alt='Get it on Google Play' width='300px' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/>
+</a>
+
 https://play.google.com/store/apps/details?id=de.cubeworksgmbh.android.piconfigurator
 
 ## Bluetooth Server
